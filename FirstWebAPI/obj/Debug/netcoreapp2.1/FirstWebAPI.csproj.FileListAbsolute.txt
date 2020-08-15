@@ -1,0 +1,14 @@
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp2.1\FirstWebAPI.deps.json
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp2.1\FirstWebAPI.runtimeconfig.json
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp2.1\FirstWebAPI.runtimeconfig.dev.json
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp2.1\FirstWebAPI.dll
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\bin\Debug\netcoreapp2.1\FirstWebAPI.pdb
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.csprojAssemblyReference.cache
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.RazorAssemblyInfo.cache
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.RazorAssemblyInfo.cs
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.AssemblyInfoInputs.cache
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.AssemblyInfo.cs
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.dll
+C:\Users\SarathChandra\source\repos\FirstWebAPI\FirstWebAPI\obj\Debug\netcoreapp2.1\FirstWebAPI.pdb
